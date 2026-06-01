@@ -56,4 +56,9 @@ Turn your closed trades into shareable cards. Auto-import from MT4/MT5 or CSV.
 
 ---
 
+
+[## Pagespeed]([https://tikrd.com](https://pagespeed.web.dev/analysis/https-tikrd-com/ckbi6cm97t?form_factor=desktop&category=performance&category=accessibility&category=best-practices&category=seo&hl=en-US&utm_source=lh-chrome-ext))
+
+
+
 Built by [@maxvol123](https://github.com/maxvol123)
